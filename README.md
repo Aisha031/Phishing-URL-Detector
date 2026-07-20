@@ -11,6 +11,7 @@ Dataset: Kaggle Phishing URL Dataset.
 - Interactive mode for testing your own URLs.
 
 - ### Added comment for feature extraction
+- ### Added Random Forest feature importance output
 
 ## Requirements
 - Python 3.8+
