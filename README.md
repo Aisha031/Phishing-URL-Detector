@@ -10,6 +10,8 @@ Dataset: Kaggle Phishing URL Dataset.
 - Predicts new URLs with confidence scores.
 - Interactive mode for testing your own URLs.
 
+- ### Added comment for feature extraction
+
 ## Requirements
 - Python 3.8+
 - pip package manager
