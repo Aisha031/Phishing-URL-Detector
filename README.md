@@ -14,6 +14,7 @@ Dataset: Kaggle Phishing URL Dataset.
 - ### Added Random Forest feature importance output
 - ### Added code to save best model as phishing_model.pkl
 - ### Added dataset.csv placeholder and Kaggle dataset instructions
+- ### Implemented URL feature extraction functions (length, symbols, IP, HTTPS, etc.)
 
 ## Requirements
 - Python 3.8+
