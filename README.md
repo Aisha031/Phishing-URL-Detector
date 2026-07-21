@@ -27,7 +27,7 @@ pip install pandas numpy scikit-learn
 Run Instructions for Windows:
 
 1: Clone the repository
-git clone https://github.com/<your-repo>/phishing-url-detector.git
+git clone https://github.com/Aisha031/phishing-url-detector.git
 cd phishing-url-detector
 
 2:Place the dataset file (dataset.csv) in the same folder
@@ -38,7 +38,7 @@ python phishing_detector.py
 Linux / macOS:
 
 1:Clone the repository:
-git clone https://github.com/<your-repo>/phishing-url-detector.git
+git clone https://github.com/Aisha031/phishing-url-detector.git
 cd phishing-url-detector
 
 2:Ensure dataset file (dataset.csv) is present.
